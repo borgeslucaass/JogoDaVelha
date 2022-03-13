@@ -129,3 +129,6 @@ print("""
     |       |       |       |
     +-------+-------+-------+ """)
 jogo(int(input("Qual quadrante deseja jogar? ")))
+
+print("A casa caiu!!")
+
